@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 程序员黑熊仔
+title: 黑熊仔
 subtitle: "大前端"
 description: "黑熊仔技术博客"
-keywords:
+keywords: https://github.com/cuzmarlboro
 author: 熊
 language: zh-CN
 timezone: ""
