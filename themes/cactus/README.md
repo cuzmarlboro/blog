@@ -179,7 +179,7 @@ If there is a need to customize, please update `_config.yml`:
 
 ```yml
 copyright:
-  start_year: 2016
+  start_year: 2018
   end_year:
 ```
 
